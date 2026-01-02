@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rayaan Nowshahri</h1>
 
 # 💫 About Me:
-I’m a second-year Computer Science student at the University of Western Ontario, with a passion for software development—particularly in creating scalable applications and working with database-driven systems.
+I’m a second-year Computer Science student at the University of Western Ontario, with a passion for software development, particularly in creating scalable applications and working with database-driven systems.
 
 ## 🚀 What I'm Up To
 - 🤖 Committed to continuously learning and deepening my understanding of Computer Science concepts and technologies.
